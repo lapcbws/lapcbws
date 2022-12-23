@@ -1,4 +1,4 @@
-👋 Hi, my name is Seohyeon Lee. I'm a sophomore at Pomona Collehe studying CS and Math while exploring wide interests.
+👋 Hi, my name is Seohyeon Lee. I'm a sophomore at Pomona College studying CS and Math while exploring wide interests.
 
 👀 I'm attracted to CS because it's an empowering tool that helps me realize my ideas. 
 I'm part of Github All In, a mentoring program for under-represented tech students that provides training for open-source projects and professional development.
