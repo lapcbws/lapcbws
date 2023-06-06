@@ -7,6 +7,7 @@
 Relevant Classes:
 
 Computer Science: Data Structures & Algorithms (Java), Discrete Math and Functional Programming (Fall 2022; TA Spring 2023)
+
 Math: Probability, Combinatorics, Linear Algebra (TA Fall 2022), Multivariable Calculus
 
 📫 Feel free to reach me at slae2020@mymail.pomona.edu or https://www.linkedin.com/in/seohyeon-lee-pomona25/
