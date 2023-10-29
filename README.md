@@ -6,7 +6,7 @@
 
 Relevant Classes:
 
-Computer Science: Data Structures & Advanced Programming (Java), Discrete Math & Functional Programming (TA Spring '23), Neural Networks, User-Centered Research
+Computer Science: Data Structures & Advanced Programming (Java), Discrete Math & Functional Programming (TA Spring '23), Neural Networks
 
 Math: Probability, Combinatorics, Linear Algebra (TA Fall '22), Multivariable Calculus, Statistical Theory
 
